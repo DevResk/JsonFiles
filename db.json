@@ -78,6 +78,63 @@
         "text": "What is Friday Night Funkin’?",
         "isNative": "false"
       }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Before you get started, here's a list of our rules. It is important that you read and understand them before continuing on. We highly encourage users to edit, even if you aren't experienced. If you make a mistake, the staff or other users can help to rectify any problems. We all share a common goal of improving the wiki and making it an accurate source for all Friday Night Funkin' fans and newcomers.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "1. Vandalism is strictly prohibited and will be banned on sight. Admins reserve the right to fully ban your IP address if you continuously vandalize. It is very likely that you will be banned indefinitely from the community without warning if you are caught vandalizing multiple pages.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "2. Do not create blank pages with titles that are irrelevant to the game or those that are similar to already-existing pages. These will be deleted and users will be warned. If a user continues to make more or brings back any that were previously deleted, they will be banned.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "3. Refrain from adding headcanons (personal interpretations of canon), major information without sources and double check before adding any information "confirmed" by Ninjamuffin99.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "4. Refrain from trolling on the wiki. You aren't as funny as you think you are.",
+        "isNative": "false"
+      }
     ]
   }
 }
