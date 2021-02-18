@@ -118,17 +118,6 @@
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://i.imgur.com/maYgOaH.jpg",
-        "text": "",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "Are there any tips for getting better in Friday Night Funkin’?",
         "isNative": "false"
