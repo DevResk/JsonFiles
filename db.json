@@ -104,12 +104,12 @@
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
-        "left": "2",
-        "text_size": "20",
+        "left": "10",
+        "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "The game is all about practicing as you work your way through the various weeks. Each week introduces new features, singing challenges against The Father, and characters that’ll either help you or block you from getting the girl.",
-        "isNative": "false"
+        "image_link": "https://i.imgur.com/maYgOaH.jpg",
+        "text": "",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
