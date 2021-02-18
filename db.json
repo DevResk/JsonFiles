@@ -123,6 +123,39 @@
         "image_link": "",
         "text": "4. Refrain from trolling on the wiki. You aren't as funny as you think you are.",
         "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "5. Refrain from commenting and posting sexual/explicit jokes or content on the wiki. This includes inappropriate images, videos and sound files to the wiki's galleries. NSFW content is not acceptable and will be removed and the poster will face consequences.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "2",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "6. Do not role-play on the wiki. This isn't the place for that and we encourage you to go look elsewhere. We also ask that you refrain from ship discussions (character pairings) on the wiki as well due to the likelihood of harassment and fights spurring from such topics. If users are caught in an argument over them, all parties involved could face a temporary ban.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "7. We absolutely do not tolerate homophobia, transphobia, racism, sexism or any kind of harassment on this wiki for any reason. Even as a "joke", that kind of behavior is unacceptable and you could face serious consequences.",
+        "isNative": "false"
       }
     ]
   }
