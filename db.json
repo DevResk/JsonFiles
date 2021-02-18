@@ -331,7 +331,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "11. Do not spam. It's annoying and can clutter a discussion or disrupt wiki activity. Anyone who continues to spam on the wiki or forums may get banned.",
-        "isNative": "false"
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -353,7 +353,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "13. Don't try to work around any of the rules, a.k.a. gaming the system. Bending them, finding a loop hole or manipulating definitions within the words written in an attempt to avoid punishment will not be tolerated at all. There is no justification for actions deemed offendable by the staff by reading in between the lines or saying that what you are being punished for wasn't explicitly written down. If you are caught engaging in bad behavior, you will face consequences, regardless of whatever elaborate excuses you come up with.",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
