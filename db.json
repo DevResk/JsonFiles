@@ -221,7 +221,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "1. Vandalism is strictly prohibited and will be banned on sight. Admins reserve the right to fully ban your IP address if you continuously vandalize. It is very likely that you will be banned indefinitely from the community without warning if you are caught vandalizing multiple pages.",
-        "isNative": "false"
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
